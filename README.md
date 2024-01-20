@@ -1,5 +1,7 @@
 A beginner nodeJS project to generate a QR code from the user given URL input. 
 
+node_modules was deleted at the time of uploading this project on github. 
+
 STEPS: 
 
 1) npm init : to initialize 
